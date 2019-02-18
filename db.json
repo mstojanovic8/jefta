@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Project 1",
+      "date": "02/02/2018",
+      "image": "./projekat.png"
+    },
+    {
+      "id": 2,
+      "name": "Project 2",
+      "date": "02/02/2018",
+      "image": "./projekat.png"
+    },
+    {
+      "id": 3,
+      "name": "Project 3",
+      "date": "02/02/2018",
+      "image": "./projekat.png"
+    },
+    {
+      "id": 4,
+      "name": "Project 4",
+      "date": "02/02/2018",
+      "image": "./projekat.png"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Sebastian",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com"
+    }
+  ]
+}
